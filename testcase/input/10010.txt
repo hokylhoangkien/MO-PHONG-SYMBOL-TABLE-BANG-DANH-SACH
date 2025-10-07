@@ -1,2 +1,0 @@
-INSERT l number
-ASSIGN l 15.9

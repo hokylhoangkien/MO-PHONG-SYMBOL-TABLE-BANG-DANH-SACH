@@ -1,1 +1,0 @@
-Invalid: ASSIGN h _

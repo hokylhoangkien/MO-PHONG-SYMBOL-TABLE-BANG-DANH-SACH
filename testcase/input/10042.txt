@@ -1,7 +1,0 @@
-INSERT k string
-INSERT m string
-BEGIN
-INSERT k string
-INSERT m string
-RPRINT
-END
