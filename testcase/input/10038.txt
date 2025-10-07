@@ -1,0 +1,7 @@
+INSERT h string
+INSERT j string
+BEGIN
+INSERT h string
+INSERT j string
+PRINT
+END

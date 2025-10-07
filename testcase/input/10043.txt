@@ -1,0 +1,7 @@
+RPRINT
+INSERT r string
+INSERT s string
+BEGIN
+INSERT r string
+INSERT s string
+END

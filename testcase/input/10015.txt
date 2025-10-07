@@ -1,0 +1,2 @@
+INSERT y string
+ASSIGN y 'p p'

@@ -1,0 +1,5 @@
+BEGIN
+INSERT m number
+END
+END
+BEGIN

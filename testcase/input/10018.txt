@@ -1,0 +1,2 @@
+INSERT v string
+ASSIGN v K
