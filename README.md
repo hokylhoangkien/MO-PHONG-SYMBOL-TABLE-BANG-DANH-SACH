@@ -61,5 +61,7 @@ Không sử dụng thư viện nào khác.
 3. **Chạy chương trình chính**:
 
 ```bash
-python main.py
+py main.py
 ```
+
+**Lưu ý:** Kể từ lần chạy đầu tiên, muốn chạy lại thì phải xóa các thư mục: (`testcase`, `_pycache_`)

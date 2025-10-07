@@ -1,0 +1,2 @@
+INSERT h string
+ASSIGN h _

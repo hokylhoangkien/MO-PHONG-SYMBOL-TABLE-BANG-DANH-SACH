@@ -1,0 +1,7 @@
+RPRINT
+INSERT t string
+INSERT u string
+BEGIN
+INSERT t string
+INSERT u string
+END

@@ -1,0 +1,10 @@
+INSERT o string
+INSERT m string
+INSERT n string
+BEGIN
+INSERT m string
+BEGIN
+PRINT
+INSERT o string
+END
+END

@@ -1,0 +1,6 @@
+INSERT phanhoang number
+INSERT phan number
+INSERT phanh number
+INSERT phanhoangk number
+INSERT phan number
+INSERT phanhoang number

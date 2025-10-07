@@ -1,0 +1,6 @@
+BEGIN
+INSERT k number
+ASSIGN z 7
+INSERT k number
+INSERT z number
+END

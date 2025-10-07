@@ -1,0 +1,7 @@
+BEGIN
+INSERT n number
+BEGIN
+END
+END
+END
+BEGIN
