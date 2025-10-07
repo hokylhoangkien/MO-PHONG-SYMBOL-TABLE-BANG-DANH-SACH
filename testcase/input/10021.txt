@@ -1,1 +1,0 @@
-ASSIGN number 'number'

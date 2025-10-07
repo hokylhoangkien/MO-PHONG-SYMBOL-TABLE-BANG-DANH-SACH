@@ -64,4 +64,4 @@ Không sử dụng thư viện nào khác.
 py main.py
 ```
 
-**Lưu ý:** Kể từ lần chạy đầu tiên, muốn chạy lại thì phải xóa các thư mục: (`testcase`, `_pycache_`)
+**Lưu ý:** Kể từ lần chạy đầu tiên, muốn chạy lại thì phải xóa các thư mục: (`testcase`, `_pycache_`) trước mỗi lần chạy sau đó.

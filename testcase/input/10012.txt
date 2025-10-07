@@ -1,2 +1,0 @@
-INSERT u string
-ASSIGN u '7aP'

@@ -1,3 +1,0 @@
-INSERT a number
-INSERT b string
-ASSIGN c 2 

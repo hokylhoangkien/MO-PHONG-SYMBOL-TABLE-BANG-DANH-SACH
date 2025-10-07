@@ -1,2 +1,0 @@
-INSERT o string
-ASSIGN o 'abcAB01'

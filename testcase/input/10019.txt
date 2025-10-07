@@ -1,2 +1,0 @@
-INSERT k number
-ASSIGN k B

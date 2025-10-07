@@ -1,7 +1,0 @@
-BEGIN
-INSERT p number
-BEGIN
-INSERT g number
-END
-END
-END

@@ -1,8 +1,0 @@
-BEGIN
-INSERT p number
-END
-INSERT p number
-BEGIN
-INSERT p number
-END
-LOOKUP p

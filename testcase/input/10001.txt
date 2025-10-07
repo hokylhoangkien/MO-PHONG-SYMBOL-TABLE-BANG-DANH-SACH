@@ -1,1 +1,0 @@
-INSERT hK_3 string
